@@ -1,4 +1,4 @@
-import cvPdf from './docs/Curriculo GuilhermeFrancaDomingues .pdf'
+import cvPdf from './docs/Curriculo GuilhermeFrancaDomingues.pdf'
 
 export default function Corpo() {
     return (
@@ -127,16 +127,17 @@ function MapaCarreira() {
 
 function HardSkills() {
     const frontend = [
-        { name: "HTML", level: 70 },
+        { name: "HTML", level: 80 },
         { name: "CSS", level: 70 },
         { name: "JavaScript", level: 74 },
-        { name: "TypeScript", level: 30 },
+        { name: "TypeScript", level: 60 },
         { name: "React", level: 80 },
+        { name: "Next Js", level: 80 },
         { name: "TailwindCSS", level: 80 }
     ]
 
     const backend = [
-        { name: "C#", level: 50 },
+        { name: "C#", level: 60 },
         { name: "ASP.NET", level: 50 },
         { name: "PHP", level: 75 },
     ]
