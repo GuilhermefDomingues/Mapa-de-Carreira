@@ -28,7 +28,7 @@ function Carta() {
 
             <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-8 border border-gray-200 dark:border-gray-700">
                 <p className="text-gray-700 dark:text-gray-300 text-lg leading-relaxed">
-                    Olá! Meu nome é Guilherme, sou formado em Técnico de Informática para Internet e apaixonado por tecnologia e desenvolvimento. Desde que entrei nesse mundo, tenho buscado evoluir constantemente, aprendendo novas linguagens e aprimorando minhas habilidades como desenvolvedor. Em 2026, pretendo ingressar na faculdade de Análise e Desenvolvimento de Sistemas (ADS) para continuar crescendo e me aprofundando ainda mais na área que eu realmente gosto.
+                    Olá! Meu nome é Guilherme, sou formado em Técnico de Informática para Internet e apaixonado por tecnologia e desenvolvimento. Desde que entrei nesse universo, tenho buscado evoluir constantemente, aprendendo novas linguagens e aprimorando minhas habilidades como desenvolvedor. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS), o que tem ampliado ainda mais minha visão sobre a área e reforçado meu desejo de construir uma carreira sólida em tecnologia.
                 </p>
             </div>
 
