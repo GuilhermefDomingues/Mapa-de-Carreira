@@ -52,8 +52,8 @@ function MapaCarreira() {
         {
             cargo: "Desenvolvedor Web Full Stack Júnior",
             periodo: "Atual",
-            descricao: "Atualmente, estou iniciando minha trajetória no desenvolvimento web, aprimorando meus conhecimentos em HTML, CSS, JavaScript/TypeScript, C# e frameworks modernos. ",
-            skills: ["HTML", "CSS", "JavaScript", "React", "TypeScript", "C#", "ASP.NET", "Git"],
+            descricao: "Atualmente, estou iniciando minha trajetória no desenvolvimento web, aprimorando meus conhecimentos em React Js, JavaScript/TypeScript, C# e frameworks modernos. ",
+            skills: ["HTML", "CSS", "JavaScript", "React", "Next", "TypeScript", "C#", "ASP.NET", "Git"],
             status: "atual"
         },
         {
